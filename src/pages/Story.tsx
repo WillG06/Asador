@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet-async";
-import chef from "@/assets/chef.asset.json";
-import exterior from "@/assets/exterior.asset.json";
-import interior from "@/assets/interior.asset.json";
+import chef from "@/assets/chef.jpg";
+import exterior from "@/assets/exterior.jpg";
+import interior from "@/assets/interior.jpg";
 import { Reveal } from "@/components/Chrome";
 
 export default function Story() {
@@ -25,7 +25,7 @@ export default function Story() {
 
         <section className="grid lg:grid-cols-2 gap-0 border-y border-stone/40">
           <div className="relative aspect-[4/5] lg:aspect-auto min-h-[500px]">
-            <img src={chef.url} alt="Victor Arguinzoniz" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
+            <img src={chef} alt="Victor Arguinzoniz" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
           </div>
           <Reveal className="bg-char px-8 lg:px-20 py-20 lg:py-32 flex flex-col justify-center">
             <div className="font-body text-[10px] tracking-[0.4em] text-gold uppercase">The Man</div>
@@ -68,12 +68,12 @@ export default function Story() {
             </div>
           </Reveal>
           <div className="relative aspect-[4/5] lg:aspect-auto min-h-[500px] order-1 lg:order-2">
-            <img src={exterior.url} alt="The restaurant exterior in Axpe" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
+            <img src={exterior} alt="The restaurant exterior in Axpe" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
           </div>
         </section>
 
         <section className="relative h-[60vh] lg:h-[80vh] overflow-hidden">
-          <img src={interior.url} alt="Dining room" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
+          <img src={interior} alt="Dining room" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
           <div className="absolute inset-0 bg-void/40" />
           <div className="absolute inset-0 flex items-center justify-center px-6">
             <p className="font-display italic font-light text-ivory text-[28px] lg:text-[44px] max-w-3xl text-center leading-tight text-shadow-lux">

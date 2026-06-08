@@ -1,8 +1,8 @@
 import { Helmet } from "react-helmet-async";
 import { useTranslation } from "react-i18next";
-import menuCard from "@/assets/menu-card.asset.json";
-import tomato from "@/assets/tomato.asset.json";
-import chuleton from "@/assets/chuleton.asset.json";
+import menuCard from "@/assets/menu-card.jpg";
+import tomato from "@/assets/tomato.jpg";
+import chuleton from "@/assets/chuleton.jpg";
 import { Reveal } from "@/components/Chrome";
 
 const COURSES = [
@@ -68,7 +68,7 @@ export default function Menu() {
             </Reveal>
             <Reveal delay={150} className="relative">
               <div className="aspect-[4/5] relative overflow-hidden">
-                <img src={menuCard.url} alt="Hand-written tasting menu card" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
+                <img src={menuCard} alt="Hand-written tasting menu card" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
                 <div className="absolute inset-0 bg-gradient-to-t from-void/40 via-transparent to-transparent" />
               </div>
               <div className="absolute -bottom-6 -left-6 hidden lg:block bg-char border border-gold/40 px-6 py-4">

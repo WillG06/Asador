@@ -2,13 +2,13 @@ import { Helmet } from "react-helmet-async";
 import { Link } from "react-router-dom";
 import { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
-import interior from "@/assets/interior.asset.json";
-import prawn from "@/assets/prawn.asset.json";
-import tomato from "@/assets/tomato.asset.json";
-import chuleton from "@/assets/chuleton.asset.json";
-import menuCard from "@/assets/menu-card.asset.json";
-import chef from "@/assets/chef.asset.json";
-import exterior from "@/assets/exterior.asset.json";
+import interior from "@/assets/interior.jpg";
+import prawn from "@/assets/prawn.jpg";
+import tomato from "@/assets/tomato.jpg";
+import chuleton from "@/assets/chuleton.jpg";
+import menuCard from "@/assets/menu-card.jpg";
+import chef from "@/assets/chef.jpg";
+import exterior from "@/assets/exterior.jpg";
 import { AwardsMarquee } from "@/components/AwardsMarquee";
 import { Reveal, useReveal } from "@/components/Chrome";
 
@@ -29,7 +29,7 @@ function Hero() {
   return (
     <section className="relative h-screen w-full overflow-hidden z-0">
       <img
-        src={exterior.url}
+        src={exterior}
         alt="Asador Etxebarri stone caserío at dusk"
         className="absolute inset-0 w-full h-full object-cover animate-ken-burns"
         loading="eager"
@@ -63,11 +63,11 @@ function Hero() {
 }
 
 const DISHES = [
-  { name: "TXANGURRO", origin: "Spider crab · Cantabrian Sea", img: prawn.url, n: "01" },
-  { name: "CHORIZO DE TXERRI", origin: "House-cured pork · Cherry wood smoke", img: tomato.url, n: "02" },
-  { name: "KOKOTXAS", origin: "Hake cheeks · Live fire emulsion", img: menuCard.url, n: "03" },
-  { name: "CHULETÓN", origin: "Galician blonde · Aged 14 years · Open grill", img: chuleton.url, n: "04" },
-  { name: "CAVIAR", origin: "Oscietra · Grilled over vine shoots", img: prawn.url, n: "05" },
+  { name: "TXANGURRO", origin: "Spider crab · Cantabrian Sea", img: prawn, n: "01" },
+  { name: "CHORIZO DE TXERRI", origin: "House-cured pork · Cherry wood smoke", img: tomato, n: "02" },
+  { name: "KOKOTXAS", origin: "Hake cheeks · Live fire emulsion", img: menuCard, n: "03" },
+  { name: "CHULETÓN", origin: "Galician blonde · Aged 14 years · Open grill", img: chuleton, n: "04" },
+  { name: "CAVIAR", origin: "Oscietra · Grilled over vine shoots", img: prawn, n: "05" },
 ];
 
 function DishCarousel() {
@@ -269,7 +269,7 @@ function Philosophy() {
     <section ref={ref} className="bg-void grid md:grid-cols-2 min-h-[80vh]">
       <div className="relative overflow-hidden min-h-[400px]">
         <img
-          src={chef.url}
+          src={chef}
           alt="Victor Arguinzoniz at the grill"
           className={`w-full h-full object-cover transition-all duration-[1400ms] ${shown ? "scale-100 opacity-100" : "scale-105 opacity-0"}`}
           loading="lazy"
@@ -348,7 +348,7 @@ function Reserve() {
   const { t } = useTranslation();
   return (
     <section className="relative bg-void py-32 overflow-hidden">
-      <img src={interior.url} alt="" className="absolute inset-0 w-full h-full object-cover opacity-25" loading="lazy" />
+      <img src={interior} alt="" className="absolute inset-0 w-full h-full object-cover opacity-25" loading="lazy" />
       <div className="absolute inset-0 bg-gradient-to-b from-void via-void/70 to-void" />
       <Reveal className="relative mx-auto max-w-[1440px] px-6 lg:px-10 text-center">
         <div className="font-body text-[10px] tracking-[0.4em] text-gold uppercase">{t("common.limitedTable")}</div>
