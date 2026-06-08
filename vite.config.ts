@@ -4,12 +4,16 @@ import path from "node:path";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  base: "./",
+  base: "/Asador/",  // ← must match your GitHub repo name exactly
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
+  },
+  build: {
+    outDir: "dist",
+    emptyOutDir: true,
   },
   server: {
     host: "::",
