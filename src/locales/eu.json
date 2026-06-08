@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "story": "Istorioa",
+    "menu": "Menua",
+    "reservations": "Erreserbak",
+    "journal": "Egunkaria",
+    "findUs": "Non Gauden"
+  },
+  "common": {
+    "openLunch": "Bazkarirako irekita · Asteartetik Igandera · Erreserbatzea gomendatzen da",
+    "limitedTable": "Mahai mugatua",
+    "beginReservation": "Erreserbatu",
+    "readMore": "Irakurri gehiago",
+    "back": "Atzera",
+    "continue": "Jarraitu",
+    "confirm": "Berretsi",
+    "axpeBasque": "Axpe · Euskal Herria · 1990etik"
+  },
+  "home": {
+    "heroTagline": "Munduko onenetarikoa. Sua. Pazientzia. Perfekzioa.",
+    "fromTheGrill": "Parrilatik",
+    "singularDishes": "Plater bereziak,",
+    "forgedByFlame": "garrak landuak.",
+    "philosophy": "Filosofia",
+    "philosophyQuote": "\"Suak hitz egin dezala, ez sukaldariak.\"",
+    "philosophyBody": "Lau hamarkadaz, Victor Arguinzonizek txingar, zur eta pazientzia hiztegi bat landu du. Osagai bakoitzak bere parrilla berezia du — mahatsondoa ganbatarako, arteak haragirako, fruitu-zurak esnerako.",
+    "readStory": "Irakurri gure istorioa",
+    "axpeRegion": "Axpe · Bizkaia",
+    "whereMountains": "Mendiak suarekin biltzen diren tokian.",
+    "diner": "— Bezeroa, Axpe 2024",
+    "diningQuote": "\"Munduko jatetxerik onena. Eta ez bakarrik izenez.\"",
+    "reserveTitle": "Erreserbatu zure tokia su ondoan.",
+    "reserveBody": "Mahaiak hiru hilabete aurretik irekitzen dira. Berrogeita hamar bezero baino gutxiago zerbitzu bakoitzeko."
+  },
+  "menu": {
+    "kicker": "Dastaketa",
+    "title": "Dastaketa Menua",
+    "subtitle": "Merkatutik. Sutik. Sasoikoa.",
+    "availability": "Asteartetik Igandera · Bazkaria bakarrik",
+    "price": "€264 bezeroko",
+    "winePairing": "Ardo uztarketa €60tik",
+    "season": "Udaberriko Dastaketa · 2026",
+    "intro": "Hamabi platerreko menua, goizero merkatuak eta sasoiak gidatua. Ez dago saltsarik. Ezer ez da ezkutatzen.",
+    "cellarKicker": "Upategia",
+    "cellarTitle": "Ardo Uztarketak",
+    "extrasNote": "Gehigarriak · Carabinero, lanperna, kabiar, abakando, angulak karta osagarrian",
+    "menuChanges": "Menua egunero aldatzen da, merkatuaren eta sasoiaren arabera."
+  },
+  "reservations": {
+    "kicker": "Mahai mugatua",
+    "title": "Erreserbatu zure mahaia",
+    "subtitle": "Mahaiak hiru hilabete aurretik irekitzen dira.",
+    "steps": { "date": "Eguna", "guests": "Bezeroak", "deposit": "Gordailua", "confirm": "Berretsi" },
+    "partySize": "Bezero kopurua",
+    "maxParty": "Gehienez 8 erreserba bakoitzeko",
+    "fullName": "Izen-deiturak",
+    "email": "Posta",
+    "phone": "Telefonoa",
+    "dietary": "Dietaren beharrak",
+    "occasion": "Ospakizuna",
+    "review": "Berrikusi",
+    "depositTitle": "Bermatu zure mahaia",
+    "depositBody": "Bezeroko £50ko gordailuak zure erreserba bermatzen du. Itzulgarria 72 ordu lehenago arte.",
+    "payDeposit": "Ordaindu gordailua",
+    "thanks": "Eskerrik asko",
+    "received": "Zure erreserba berretsita dago.",
+    "receipt": "Ordainagiria zure postara bidali dugu.",
+    "service": "Zerbitzua · Bazkaria · 13:00",
+    "policy": "Bertan beherak 72 ordu aurretik egin behar dira."
+  },
+  "journal": {
+    "kicker": "Egunkaria",
+    "title": "Prentsa, sariak eta sasoiko gutunak.",
+    "readArticle": "Irakurri"
+  },
+  "findUs": {
+    "kicker": "Non Gauden",
+    "title": "Anboto azpiko herrixka.",
+    "address": "Helbidea",
+    "hours": "Ordutegia",
+    "gettingHere": "Nola Iritsi",
+    "stays": "Non Lo Egin"
+  },
+  "footer": {
+    "tagline": "Sua. Pazientzia. Perfekzioa. Harrizko baserri bat, non Euskal Herriko mendiak munduko sukaldaritza-metodorik zaharrenarekin biltzen diren.",
+    "navigate": "Nabigatu",
+    "visit": "Bisitatu",
+    "rights": "© 2025 Asador Etxebarri · Eskubide guztiak erreserbatuak",
+    "designed": "Euskal Herrian diseinatua"
+  },
+  "diets": {
+    "Vegetarian": "Begetarianoa",
+    "Pescatarian": "Pescetarianoa",
+    "GlutenFree": "Gluten gabe",
+    "NutAllergy": "Fruitu lehor alergia",
+    "ShellfishAllergy": "Itsaski alergia"
+  },
+  "occasions": { "None": "Bat ere ez", "Birthday": "Urtebetetzea", "Anniversary": "Urteurrena", "Business": "Negozioa" }
+}

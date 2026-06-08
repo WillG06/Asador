@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "story": "Story",
+    "menu": "Menu",
+    "reservations": "Reservations",
+    "journal": "Journal",
+    "findUs": "Find Us"
+  },
+  "common": {
+    "openLunch": "Open for Lunch · Tuesday – Sunday · Reservations Strongly Advised",
+    "limitedTable": "A Limited Table",
+    "beginReservation": "Begin Reservation",
+    "readMore": "Read more",
+    "back": "Back",
+    "continue": "Continue",
+    "confirm": "Confirm",
+    "axpeBasque": "Axpe · Basque Country · Est. 1990"
+  },
+  "home": {
+    "heroTagline": "Ranked among the world's finest. Fire. Patience. Perfection.",
+    "fromTheGrill": "From the Grill",
+    "singularDishes": "Singular dishes,",
+    "forgedByFlame": "forged by flame.",
+    "philosophy": "The Philosophy",
+    "philosophyQuote": "\"I want the fire to speak, not the chef.\"",
+    "philosophyBody": "For four decades, Victor Arguinzoniz has refined a vocabulary of embers, woods and patience. Each ingredient is met by a custom-built grill engineered for its particular character — vine shoots for prawns, holm oak for beef, fruit wood for milk.",
+    "readStory": "Read our story",
+    "axpeRegion": "Axpe · Bizkaia",
+    "whereMountains": "Where mountains meet flame.",
+    "diner": "— Diner, Axpe 2024",
+    "diningQuote": "\"The best restaurant in the world. And not just by title.\"",
+    "reserveTitle": "Reserve your seat at the fire.",
+    "reserveBody": "Tables open three months in advance. We seat fewer than fifty guests per service."
+  },
+  "menu": {
+    "kicker": "Degustación",
+    "title": "The Tasting Menu",
+    "subtitle": "Market-driven. Fire-led. Seasonal.",
+    "availability": "Available Tuesday – Sunday · Lunch only",
+    "price": "€264 per guest",
+    "winePairing": "Wine pairing from €60",
+    "season": "Spring Tasting · 2026",
+    "intro": "A twelve-course offering guided each morning by the market and the season. Nothing is sauced. Nothing is hidden.",
+    "cellarKicker": "The Cellar",
+    "cellarTitle": "Wine Pairings",
+    "extrasNote": "Extras · Carabinero, percebes, caviar, bogavante, angulas available à la carte",
+    "menuChanges": "Menus change daily, guided by the morning's market and the season."
+  },
+  "reservations": {
+    "kicker": "A Limited Table",
+    "title": "Reserve your seat",
+    "subtitle": "Tables open three months in advance.",
+    "steps": { "date": "Date", "guests": "Guests", "deposit": "Deposit", "confirm": "Confirm" },
+    "partySize": "Party Size",
+    "maxParty": "Maximum 8 per booking",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "dietary": "Dietary Considerations",
+    "occasion": "Occasion",
+    "review": "Review",
+    "depositTitle": "Secure your table",
+    "depositBody": "A £50 per-guest deposit secures your reservation. Fully refundable up to 72 hours prior.",
+    "payDeposit": "Pay deposit",
+    "thanks": "Thank you",
+    "received": "Your reservation is confirmed.",
+    "receipt": "A receipt and itinerary have been sent to your email.",
+    "service": "Service · Lunch · 13:00",
+    "policy": "Cancellations must be made 72 hours in advance. Card guarantee required."
+  },
+  "journal": {
+    "kicker": "The Journal",
+    "title": "Press, accolades & seasonal letters.",
+    "readArticle": "Read"
+  },
+  "findUs": {
+    "kicker": "Find Us",
+    "title": "A village in the shadow of Anboto.",
+    "address": "Address",
+    "hours": "Hours",
+    "gettingHere": "Getting Here",
+    "stays": "Where to Stay"
+  },
+  "footer": {
+    "tagline": "Fire. Patience. Perfection. A stone caserío where Basque mountains meet the oldest cooking method on earth.",
+    "navigate": "Navigate",
+    "visit": "Visit",
+    "rights": "© 2025 Asador Etxebarri · All Rights Reserved",
+    "designed": "Designed in the Basque Country"
+  },
+  "diets": {
+    "Vegetarian": "Vegetarian",
+    "Pescatarian": "Pescatarian",
+    "GlutenFree": "Gluten-Free",
+    "NutAllergy": "Nut Allergy",
+    "ShellfishAllergy": "Shellfish Allergy"
+  },
+  "occasions": { "None": "None", "Birthday": "Birthday", "Anniversary": "Anniversary", "Business": "Business" }
+}

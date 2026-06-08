@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "story": "Historia",
+    "menu": "Carta",
+    "reservations": "Reservas",
+    "journal": "Diario",
+    "findUs": "Cómo Llegar"
+  },
+  "common": {
+    "openLunch": "Abierto al mediodía · Martes – Domingo · Se recomienda reservar",
+    "limitedTable": "Una mesa limitada",
+    "beginReservation": "Reservar",
+    "readMore": "Leer más",
+    "back": "Atrás",
+    "continue": "Continuar",
+    "confirm": "Confirmar",
+    "axpeBasque": "Axpe · País Vasco · Desde 1990"
+  },
+  "home": {
+    "heroTagline": "Entre los mejores del mundo. Fuego. Paciencia. Perfección.",
+    "fromTheGrill": "De la Parrilla",
+    "singularDishes": "Platos únicos,",
+    "forgedByFlame": "forjados por la llama.",
+    "philosophy": "La Filosofía",
+    "philosophyQuote": "\"Quiero que hable el fuego, no el cocinero.\"",
+    "philosophyBody": "Durante cuatro décadas, Víctor Arguinzoniz ha refinado un vocabulario de brasas, maderas y paciencia. Cada ingrediente se encuentra con una parrilla diseñada a medida — sarmiento para las gambas, roble para la carne, madera frutal para la leche.",
+    "readStory": "Leer nuestra historia",
+    "axpeRegion": "Axpe · Bizkaia",
+    "whereMountains": "Donde las montañas encuentran la llama.",
+    "diner": "— Comensal, Axpe 2024",
+    "diningQuote": "\"El mejor restaurante del mundo. Y no sólo por título.\"",
+    "reserveTitle": "Reserve su sitio junto al fuego.",
+    "reserveBody": "Las mesas se abren con tres meses de antelación. Servimos a menos de cincuenta comensales por servicio."
+  },
+  "menu": {
+    "kicker": "Degustación",
+    "title": "El Menú Degustación",
+    "subtitle": "De mercado. De fuego. De temporada.",
+    "availability": "Martes – Domingo · Sólo mediodía",
+    "price": "€264 por comensal",
+    "winePairing": "Maridaje desde €60",
+    "season": "Degustación de Primavera · 2026",
+    "intro": "Doce pases guiados cada mañana por el mercado y la estación. Nada se salsea. Nada se esconde.",
+    "cellarKicker": "La Bodega",
+    "cellarTitle": "Maridajes",
+    "extrasNote": "Extras · Carabinero, percebes, caviar, bogavante, angulas disponibles a la carta",
+    "menuChanges": "El menú cambia a diario, según el mercado y la temporada."
+  },
+  "reservations": {
+    "kicker": "Una mesa limitada",
+    "title": "Reserve su mesa",
+    "subtitle": "Las mesas se abren con tres meses de antelación.",
+    "steps": { "date": "Fecha", "guests": "Comensales", "deposit": "Depósito", "confirm": "Confirmar" },
+    "partySize": "Comensales",
+    "maxParty": "Máximo 8 por reserva",
+    "fullName": "Nombre completo",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "dietary": "Restricciones alimentarias",
+    "occasion": "Ocasión",
+    "review": "Revisar",
+    "depositTitle": "Asegure su mesa",
+    "depositBody": "Un depósito de £50 por comensal asegura su reserva. Reembolsable hasta 72 h antes.",
+    "payDeposit": "Pagar depósito",
+    "thanks": "Gracias",
+    "received": "Su reserva está confirmada.",
+    "receipt": "Hemos enviado un recibo a su correo.",
+    "service": "Servicio · Mediodía · 13:00",
+    "policy": "Las cancelaciones deben hacerse con 72 h de antelación."
+  },
+  "journal": {
+    "kicker": "El Diario",
+    "title": "Prensa, premios y cartas de temporada.",
+    "readArticle": "Leer"
+  },
+  "findUs": {
+    "kicker": "Cómo Llegar",
+    "title": "Un pueblo a la sombra del Anboto.",
+    "address": "Dirección",
+    "hours": "Horario",
+    "gettingHere": "Cómo Llegar",
+    "stays": "Dónde Alojarse"
+  },
+  "footer": {
+    "tagline": "Fuego. Paciencia. Perfección. Un caserío donde las montañas vascas encuentran el método de cocina más antiguo.",
+    "navigate": "Navegar",
+    "visit": "Visitar",
+    "rights": "© 2025 Asador Etxebarri · Todos los derechos reservados",
+    "designed": "Diseñado en el País Vasco"
+  },
+  "diets": {
+    "Vegetarian": "Vegetariano",
+    "Pescatarian": "Pescetariano",
+    "GlutenFree": "Sin gluten",
+    "NutAllergy": "Alergia a frutos secos",
+    "ShellfishAllergy": "Alergia al marisco"
+  },
+  "occasions": { "None": "Ninguna", "Birthday": "Cumpleaños", "Anniversary": "Aniversario", "Business": "Negocios" }
+}

@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "story": "Histoire",
+    "menu": "Menu",
+    "reservations": "Réservations",
+    "journal": "Journal",
+    "findUs": "Nous Trouver"
+  },
+  "common": {
+    "openLunch": "Ouvert pour le déjeuner · Mardi – Dimanche · Réservation conseillée",
+    "limitedTable": "Une table limitée",
+    "beginReservation": "Réserver",
+    "readMore": "Lire la suite",
+    "back": "Retour",
+    "continue": "Continuer",
+    "confirm": "Confirmer",
+    "axpeBasque": "Axpe · Pays Basque · Depuis 1990"
+  },
+  "home": {
+    "heroTagline": "Parmi les meilleurs du monde. Feu. Patience. Perfection.",
+    "fromTheGrill": "Du Grill",
+    "singularDishes": "Des plats singuliers,",
+    "forgedByFlame": "forgés par la flamme.",
+    "philosophy": "La Philosophie",
+    "philosophyQuote": "\"Je veux que le feu parle, pas le chef.\"",
+    "philosophyBody": "Pendant quatre décennies, Victor Arguinzoniz a affiné un vocabulaire de braises, de bois et de patience. Chaque ingrédient rencontre un grill conçu sur mesure — sarments de vigne pour les gambas, chêne pour le bœuf, bois fruitier pour le lait.",
+    "readStory": "Lire notre histoire",
+    "axpeRegion": "Axpe · Biscaye",
+    "whereMountains": "Où les montagnes rencontrent la flamme.",
+    "diner": "— Convive, Axpe 2024",
+    "diningQuote": "\"Le meilleur restaurant du monde. Et pas seulement de nom.\"",
+    "reserveTitle": "Réservez votre place près du feu.",
+    "reserveBody": "Les tables ouvrent trois mois à l'avance. Moins de cinquante couverts par service."
+  },
+  "menu": {
+    "kicker": "Dégustation",
+    "title": "Le Menu Dégustation",
+    "subtitle": "Du marché. Du feu. De saison.",
+    "availability": "Mardi – Dimanche · Déjeuner uniquement",
+    "price": "€264 par convive",
+    "winePairing": "Accords mets-vins dès €60",
+    "season": "Dégustation de Printemps · 2026",
+    "intro": "Douze services guidés chaque matin par le marché et la saison. Rien n'est sauçé. Rien n'est caché.",
+    "cellarKicker": "La Cave",
+    "cellarTitle": "Accords Mets-Vins",
+    "extrasNote": "Suppléments · Carabinero, pousse-pied, caviar, homard, angulas à la carte",
+    "menuChanges": "Le menu change chaque jour, guidé par le marché et la saison."
+  },
+  "reservations": {
+    "kicker": "Une table limitée",
+    "title": "Réservez votre table",
+    "subtitle": "Les tables ouvrent trois mois à l'avance.",
+    "steps": { "date": "Date", "guests": "Convives", "deposit": "Acompte", "confirm": "Confirmer" },
+    "partySize": "Nombre de convives",
+    "maxParty": "Maximum 8 par réservation",
+    "fullName": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "dietary": "Restrictions alimentaires",
+    "occasion": "Occasion",
+    "review": "Vérifier",
+    "depositTitle": "Sécuriser votre table",
+    "depositBody": "Un acompte de £50 par convive sécurise votre réservation. Remboursable jusqu'à 72h avant.",
+    "payDeposit": "Payer l'acompte",
+    "thanks": "Merci",
+    "received": "Votre réservation est confirmée.",
+    "receipt": "Un reçu a été envoyé à votre adresse email.",
+    "service": "Service · Déjeuner · 13:00",
+    "policy": "Les annulations doivent être faites 72h à l'avance."
+  },
+  "journal": {
+    "kicker": "Le Journal",
+    "title": "Presse, distinctions et lettres de saison.",
+    "readArticle": "Lire"
+  },
+  "findUs": {
+    "kicker": "Nous Trouver",
+    "title": "Un village à l'ombre de l'Anboto.",
+    "address": "Adresse",
+    "hours": "Horaires",
+    "gettingHere": "Y Venir",
+    "stays": "Où Loger"
+  },
+  "footer": {
+    "tagline": "Feu. Patience. Perfection. Un caserío de pierre où les montagnes basques rencontrent la plus ancienne méthode de cuisson.",
+    "navigate": "Naviguer",
+    "visit": "Visiter",
+    "rights": "© 2025 Asador Etxebarri · Tous droits réservés",
+    "designed": "Conçu au Pays Basque"
+  },
+  "diets": {
+    "Vegetarian": "Végétarien",
+    "Pescatarian": "Pescetarien",
+    "GlutenFree": "Sans gluten",
+    "NutAllergy": "Allergie aux noix",
+    "ShellfishAllergy": "Allergie aux crustacés"
+  },
+  "occasions": { "None": "Aucune", "Birthday": "Anniversaire", "Anniversary": "Anniversaire de mariage", "Business": "Affaires" }
+}
